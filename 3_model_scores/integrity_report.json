@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "benchmark_rows": 1000,
+  "benchmark_sha256": "2de12bdb08bc7280ba81f88b0b559154b19e5f1df264146f4d759ad414a646c4",
+  "judge_protocol": "project_10d_v2_unified_scene_guidance",
+  "judge_model": "deepseek-v4-flash-0731",
+  "counts": {
+    "opsd_step900": 1000,
+    "qwen35_9b_base": 1000,
+    "gpt4o": 1000
+  },
+  "source_protocol_sha256": {
+    "criteria_defs.py": "c421d259d079d1f70f87895642c146d90b1922eb160c9c05f3e4e8eac320e1d6",
+    "evaluate_10d.py": "985e69d04b82f672369a4b3f1e4974e326406ce2747da0fa3a7f4c9d97ba966b",
+    "evaluate_10d_base.py": "d58fde6d8bf8ba6635701646bd119bfd0e253499e72a3614792f7749bb087a00"
+  },
+  "opsd_step900_scores_sha256": "960aaa03ec228a9ef6652f5817e42643dffeec39c4857d9624b592f994191f7e",
+  "qwen35_9b_base_scores_sha256": "8b3d09732be31ff0f8aba4c82281440ea819e95262a6050d51109fc0a1e8b0df",
+  "gpt4o_scores_sha256": "601a66434503ad11c2cd349e247f977175ef1b5efe180f2cc3a9579b84b0d52b"
+}

@@ -1,0 +1,28 @@
+{
+  "time": "2026-09-23T13:09:37.787496+00:00",
+  "operation": "category_classification",
+  "query_id": "formal10d_r101_0089",
+  "old_benchmark_sha256": "211f6c6352f7e97e05ace65fdb9d559308627d0ca0d9defafaf3521a55f06340",
+  "new_benchmark_sha256": "2de12bdb08bc7280ba81f88b0b559154b19e5f1df264146f4d759ad414a646c4",
+  "category_counts": {
+    "emotional_intelligence": 246,
+    "memory": 353,
+    "over_personalization": 250,
+    "task_quality": 151
+  },
+  "input_sha256": {
+    "opsd_step900": "01eb016a8e2fe129d8db804a731dbdbeb49087234bc1e5c0509d4248e144246b",
+    "qwen35_9b_base": "cd7e227578526a3acde61140b33afae31032600cc96ad4b18eee7119ab73bb12",
+    "gpt4o": "b719ff005f61115cbabc010db3374dcb6d34ad1106d47d118bc098850ad84b8e"
+  },
+  "score_sha256": {
+    "opsd_step900": "960aaa03ec228a9ef6652f5817e42643dffeec39c4857d9624b592f994191f7e",
+    "qwen35_9b_base": "8b3d09732be31ff0f8aba4c82281440ea819e95262a6050d51109fc0a1e8b0df",
+    "gpt4o": "601a66434503ad11c2cd349e247f977175ef1b5efe180f2cc3a9579b84b0d52b"
+  },
+  "score_cache_counts": {},
+  "run_script_updated": false,
+  "answers_changed": false,
+  "scores_changed": false,
+  "judge_rerun": false
+}
